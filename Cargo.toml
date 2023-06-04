@@ -1,0 +1,12 @@
+[package]
+name = "plotters-test"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+gtk = "0.17.1"
+plotters = "0.3.4"
+cairo-rs = "0.17"
+plotters-backend = "0.3.4"
